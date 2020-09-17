@@ -1,1 +1,2 @@
 baz
+insert success
